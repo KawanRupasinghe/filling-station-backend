@@ -1,3 +1,4 @@
+//this is sales part
 package com.lioc.backend;
 
 import com.lioc.backend.model.Inventory;
